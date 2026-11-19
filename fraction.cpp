@@ -1,4 +1,4 @@
-#include "iostream"
+#include <iostream>
 // https://marisaoj.com/problem/315
 int main()
 {
@@ -18,6 +18,6 @@ int main()
     }
     a /= x;
     b /= x;
-    std::cout << a << " " << b << "\n";
+    std::cout << a << " " << b << '\n';
     return 0;
 }
