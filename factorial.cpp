@@ -1,5 +1,5 @@
 #include "iostream"
-
+// https://marisaoj.com/problem/542
 int main()
 {
     long n;

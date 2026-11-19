@@ -1,5 +1,5 @@
 #include <iostream>
-
+// https://marisaoj.com/problem/314
 int main()
 {
     int n;
